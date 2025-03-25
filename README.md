@@ -10,6 +10,8 @@ Highlights:
 - 🐞 Error handling both on the server and on the client
 - ⏳ And much more!
 
+Live demo: https://realtime-chat-app-kfq9.onrender.com
+
 Homepage- Sign up/Log In
 ![2025-03-22 (1)](https://github.com/user-attachments/assets/06505331-f53e-4f7f-99c3-aca3fb7ce5c4)
 
